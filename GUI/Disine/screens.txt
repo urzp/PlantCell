@@ -1,0 +1,93 @@
+-----------------Экран после загрузки-------------
+
+кнопки
+New Plant Growing
+Continue Plant Growing
+
+Data Time
+
+
+------------------Screen New Plant Groing--------------------
+
+Seed germination
+Growing plant
+Settings
+
+back
+---------------------Seed germination------------------------
+Time    -  10  +  day
+
+back         Start
+---------------------Growing Plant--------------------------
+Time    -  10  +  day
+
+back         Start
+
+-------------------------Data Time Set--------------------------
+
+
+--------Main Screen-------
+Data time
+Work indicator
+Data end
+Mesages
+
+------------------------------Settings
+Growing
+   Light
+   Time Seed germination
+   Time Growing Plant	
+System
+   Data
+   Time
+   Calibtations
+   Servis	
+-----------------------------Messages
+
+
+
+-----------------------------Servis Page1-------------------------
+
+Water Enter flap on/off
+Water pomp1 on/off
+Water pomp2 on/off
+Water exit pomp on/off
+
+bak   next
+-----------------------------Servis Page2-------------------------
+
+Ph+ pomp on/off
+Ph- pomp2 on/off
+Food pomp1 on/off
+Food pomp2 on/off
+
+bak  settings next
+-----------------------------Servis Page3-------------------------
+
+Mix pomp on/off
+Plant pomp2 on/off
+Mix Exit pomp on/off
+Exit flap pomp on/off
+
+bak  settings next
+-----------------------------Servis Page4-------------------------
+
+Light on/off
+Air on/off
+Speaker on/off
+
+
+bak  settings next
+--------------------------------Calibtations----------------------
+
+
+
+
+
+
+
+
+
+
+
+	
