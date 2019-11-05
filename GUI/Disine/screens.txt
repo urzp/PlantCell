@@ -81,13 +81,23 @@ bak  settings next
 --------------------------------Calibtations----------------------
 
 
-
-
-
-
-
-
-
-
+----------------------------------Calibtations-------------------------
+				Sensors distance
+Water Tank
+min  50  max 100	
+Food Tank 1
+min  50  max 100
+Food Tank 2
+min  50  max 100
+----------------------------------Calibtations-------------------------
+				Sensors distance
+Ph+ Tank
+min  50  max 100	
+Ph- Tank 1
+min  50  max 100
+Mix Tank 2
+min  50  max 100
+Pallet
+min  50  max 100
 
 	
